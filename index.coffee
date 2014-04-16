@@ -73,6 +73,7 @@ bggRoute route for route in [
   'collection'
   'hot'
   'search'
+  'boardgame'
 ]
 
 server.start()
